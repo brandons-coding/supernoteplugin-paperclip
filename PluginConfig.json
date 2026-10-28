@@ -1,0 +1,15 @@
+{
+  "name": "Paperclip",
+  "desc": "Group pages in a notebook by a word you wrote. Labelled pages get a paperclip sticker and a small window to jump between them.",
+  "iconPath": "assets/icon.png",
+  "versionName": "0.90",
+  "versionCode": "91",
+  "pluginID": "f392ddfgscpwerfo",
+  "pluginKey": "paperclip",
+  "jsMainPath": "index",
+  "author": "bc",
+  "uses-permissions": [
+    "plugin.permission.FILE:READ",
+    "plugin.permission.FILE:WRITE"
+  ]
+}

@@ -1,0 +1,25 @@
+# node
+node_modules/
+npm-debug.log
+
+# build output; buildPlugin.sh writes build/outputs/paperclip.snplg
+build/
+*.jsbundle
+
+# Android / Gradle
+.gradle/
+.gradle-home/
+.cxx/
+.kotlin/
+.idea
+local.properties
+*.iml
+*.hprof
+*.keystore
+!debug.keystore
+
+# jest, metro
+/coverage
+.metro-health-check*
+
+.DS_Store
